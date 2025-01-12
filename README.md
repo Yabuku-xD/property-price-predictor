@@ -1,3 +1,5 @@
+<img src="preview.png">
+
 # AI-Powered Property Price Predictor
 This project focuses on algorithm optimization and machine learning model deployment to predict housing prices in Boston using a Random Forest Regression model. The project aims to predict house prices based on various input features like crime rate, property tax, and number of rooms.
 
