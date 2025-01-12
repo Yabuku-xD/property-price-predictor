@@ -24,4 +24,4 @@ def bayesian_optimization(X, y):
 
     print(f"Best Parameters: {study.best_params}")
     print(f"Best Score: {study.best_value:.2f}")
-    return study.best_params  # Return only the best parameters
+    return study.best_params
